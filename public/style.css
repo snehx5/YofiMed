@@ -1,0 +1,102 @@
+header{
+  height:100px;
+  background-color:black;
+  border:solid black 1px;
+}
+
+nav{
+margin-top:-50px;
+margin-left:300px;
+color:white;
+}
+
+nav a{
+  margin-left:5%;
+  font-size:20px;
+  color:white;
+  margin-top:-50px;
+
+}
+
+body{
+  margin:0 auto;
+}
+
+#logo{
+  width:200px;
+  height:100px;
+  background-color:white;
+  border:solid black 1px;
+}
+
+#logo p{
+  margin-left:15%;
+  font-size:36px;
+}
+
+
+
+#left-panel-one{
+  margin-top:100px;
+  margin-left:150px;
+  width:800px;
+}
+
+#left-panel-two{
+  margin-top:50px;
+  margin-left:50px;
+}
+
+
+#left-panel-one .treatment{
+
+  border-radius:100px;
+  height:100px;
+  width:100px;
+  background-color:black;
+}
+
+#left-panel-two .inject{
+  height:140px;
+  width:100px;
+  background-color:black;
+}
+
+
+#left-panel-one .box{
+  margin-left:10%;
+  display:inline-block;
+}
+
+#left-panel-two .box{
+  margin-left:2%;
+  display:inline-block;
+}
+
+#left-panel-three .box{
+  margin-left:3%;
+  display:inline-block;
+}
+
+#left-panel-three .feature{
+  height:100px;
+  width:100px;
+  background-color:black;
+  border-radius:4px;
+}
+
+#left-panel-three{
+  margin-left:50px;
+}
+
+aside{
+  margin-top:-600px;
+  width:300px;
+  margin-left:900px;
+}
+
+#tab{
+  width:50px;
+  display:inline-block;
+}
+
