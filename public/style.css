@@ -121,3 +121,68 @@ button{
   margin-left:20%;
 }
 
+#provider-menu{
+  padding:50px;
+}
+
+#provider-menu a{
+  margin-left:0px;
+}
+
+
+#provider-row{
+margin-left:10px;
+}
+
+#provider{
+  height:300px;
+  width:250px;
+  margin-left:3%;
+  background-color:black;
+  display:inline-block;
+}
+
+
+#profile-row{
+margin-top:100px;
+}
+
+
+.profile-box{
+  background-color:black;
+  width:33%;
+  height:500px;
+  display:inline-block;
+  color:white;
+
+
+}
+
+#consultation{
+  margin-top:100px;
+  width:300px;
+  height:50px;
+  border-radius:50px;
+  background-color:blue;
+  margin-left:38%;
+  margin-bottom:50px;
+
+}
+
+#reviews{
+  padding:50px;
+}
+
+#review-panel{
+  width:100%;
+  margin-bottom:100px;
+}
+
+
+.review-item{
+  width:300px;
+  height:150px;
+  margin-left:5%;
+  background-color:black;
+  display:inline-block;
+}
